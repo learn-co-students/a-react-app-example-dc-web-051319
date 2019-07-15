@@ -11,11 +11,12 @@
     ]
   },
   "dependencies": {
+    "jquery": "^1.9.1",
     "mocha-multi": "^1.0.1",
     "moment": "^2.22.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "^3.0.1",
     "webpack": "^3.11.0"
   },
   "scripts": {
